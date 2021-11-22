@@ -13,14 +13,13 @@ books available on my GitHub.
 🎨  UI Designer by Hobby. <br>
 
 ### Proffessional in: <br>—
-💡 Grabbing insights from handsome data. <br>
-📈 Analyzing trends and presentation in simple words. <br> 
-🤖 Training and Predicting using ML models. <br>
-🎯 Evaluation of models and improving accuracy. <br>
-#️⃣ Statistics and data metrices. <br>
+💡  Grabbing insights from handsome data. <br>
+📈  Analyzing trends and presentation in simple words. <br> 
+🤖  Training and Predicting using ML models. <br>
+🎯  Evaluation of models and improving accuracy. <br>
+#️⃣  Statistics and data metrices. <br>
 
-<br> <br> <br>
-My Special Friends:<br> <br>
+### My Special Friends: <br>—
 ![](https://img.shields.io/badge/Coding—Buddy-Python-informational?style=flat&logo=Python&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Calculation-Numpy-informational?style=flat&logo=Numpy&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Analysis-Pandas-informational?style=flat&logo=Pandas&logoColor=white&color=2bbc8a)
@@ -37,7 +36,7 @@ My Special Friends:<br> <br>
 <div align="center">
  
 [![LinkedIn][1.1]][1]  •  <a href="https://www.kaggle.com/aayushsameershah">
-     <img src="https://cdn4.iconfinder.com/data/icons/logos-and-brands-1/512/189_Kaggle_logo_logos-512.png" height=20 width=20>
+     <img src="https://cdn4.iconfinder.com/data/icons/logos-and-brands-1/512/189_Kaggle_logo_logos-512.png" height=15 width=15>
   </a>
 
 </div>
