@@ -33,11 +33,14 @@ My Special Friends:<br> <br>
 ![](https://img.shields.io/badge/Training-Sklearn-informational?style=flat&logo=MachineLearning&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Notedown-JupyterNotebook-informational?style=flat&logo=ipynb&logoColor=white&color=2bbc8a)
 
-My Traces on the Web: <br>
-→ Linked in: [![LinkedIn][1.1]][1] <br>
-→ Kaggle: <a href="https://www.kaggle.com/aayushsameershah">
+<br> <br> <br>
+<div align="center">
+ 
+[![LinkedIn][1.1]][1]  •  <a href="https://www.kaggle.com/aayushsameershah">
      <img src="https://cdn4.iconfinder.com/data/icons/logos-and-brands-1/512/189_Kaggle_logo_logos-512.png" height=20 width=20>
   </a>
+
+</div>
 
 [1.1]: https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/linkedin-3-16.png 
 [1]: https://www.linkedin.com/in/aayushsameershah
