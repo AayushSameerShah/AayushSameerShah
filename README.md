@@ -19,6 +19,8 @@ books available on my GitHub.
 🎯  Evaluation of models and improving accuracy. <br>
 #️⃣  Statistics and data metrices. <br>
 
+### Currently Learning: <br>—
+✍️ **Notion**: An amazing platform to organize my stuff. Feels so handy!
 ### My Special Friends: <br>—
 ![](https://img.shields.io/badge/Coding—Buddy-Python-informational?style=flat&logo=Python&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Calculation-Numpy-informational?style=flat&logo=Numpy&logoColor=white&color=2bbc8a)
@@ -35,9 +37,15 @@ books available on my GitHub.
 <br> <br> <br>
 <div align="center">
  
-[![LinkedIn][1.1]][1]  •  <a href="https://www.kaggle.com/aayushsameershah">
+[![LinkedIn][1.1]][1]
+  •  
+ <a href="https://www.kaggle.com/aayushsameershah">
      <img src="https://cdn4.iconfinder.com/data/icons/logos-and-brands-1/512/189_Kaggle_logo_logos-512.png" height=15 width=15>
-  </a>
+ </a>
+  •  
+ <a href="https://public.tableau.com/app/profile/aayush.shah6777">
+     <img src="https://user-images.githubusercontent.com/18670428/67620073-ca558e00-f7fa-11e9-9ea2-ed3a80c59210.png" height=16 width=16>
+ </a>
 
 </div>
 
