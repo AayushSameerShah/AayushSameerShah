@@ -46,6 +46,10 @@ books available on my GitHub.
  <a href="https://public.tableau.com/app/profile/aayush.shah6777">
      <img src="https://user-images.githubusercontent.com/18670428/67620073-ca558e00-f7fa-11e9-9ea2-ed3a80c59210.png" height=16 width=16>
  </a>
+  •  
+ <a href="https://www.hackerrank.com/aayushsameershah">
+     <img src="https://cdn4.iconfinder.com/data/icons/logos-and-brands-1/512/160_Hackerrank_logo_logos-512.png" height=16 width=16>
+ </a>
 
 </div>
 
