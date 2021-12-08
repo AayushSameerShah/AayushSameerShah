@@ -21,6 +21,9 @@ books available on my GitHub.
 
 ### Currently Learning: <br>—
 ✍️ **Notion**: An amazing platform to organize my stuff. Feels so handy!
+
+### Handy code snippents: <br>—
+📜 [My Gists](https://gist.github.com/AayushSameerShah): Here, I have stored many useful code snippets which become handy across the projects.
 ### My Special Friends: <br>—
 ![](https://img.shields.io/badge/Coding—Buddy-Python-informational?style=flat&logo=Python&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Calculation-Numpy-informational?style=flat&logo=Numpy&logoColor=white&color=2bbc8a)
