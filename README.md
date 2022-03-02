@@ -1,4 +1,4 @@
-![Header](https://media-exp1.licdn.com/dms/image/C4E16AQFaYZgHwbFn9g/profile-displaybackgroundimage-shrink_350_1400/0/1632927279495?e=1639612800&v=beta&t=c0ThzNpr_JYJl7TjGYpkSBV_IaabeqGrip7KEssfEVw)
+![Header](https://user-images.githubusercontent.com/83115948/156361250-89740a18-b664-4479-97b0-42704ab89e57.png)
 
 # <img src="https://c.tenor.com/SNL9_xhZl9oAAAAi/waving-hand-joypixels.gif" width=30 height=30> Heiye!
 I am Aayush ∞ Shah and I am a Data Science passioniate from Bhuj and trying to move on to leave comfortzone. I love to learn
