@@ -20,7 +20,7 @@ books available on my GitHub.
 #️⃣  Statistics and data metrices. <br>
 
 ### Currently Learning: <br>—
-⏲️ **Time-Series Forecasting**: I have learnt how to train to predict continuous values or discrete values but always wanted to know how to **_forecast_** the time. And so, the journey has begun.
+📊 **Naked Statistics**: Just stripping the dread out of the data. Found it *immensly* useful. Can't wait to start it over!
 
 ### Handy code snippents: <br>—
 📜 [My Gists](https://gist.github.com/AayushSameerShah): Here, I have stored many useful code snippets which become handy across the projects.
