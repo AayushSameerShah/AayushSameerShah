@@ -20,7 +20,8 @@ books available on my GitHub.
 #️⃣  Statistics and data metrices. <br>
 
 ### Currently Learning: <br>—
-📊 **Naked Statistics**: Just stripping the dread out of the data. Found it *immensly* useful. Can't wait to start it over!
+📊 **50 Essential concepts in Statistics**: This is A-Z in statistics! A fun to learn book. <br>
+🧠 **Spelled out GPT**: Making a notebook course to create GPT from scratch! Amazed to learn with Andrej Karpathy 🙌
 
 ### Handy code snippents: <br>—
 📜 [My Gists](https://gist.github.com/AayushSameerShah): Here, I have stored many useful code snippets which become handy across the projects.
