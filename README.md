@@ -20,7 +20,7 @@ books available on my GitHub.
 #️⃣  Statistics and data metrices. <br>
 
 ### Currently Learning: <br>—
-🧑🏻‍💻 The DSA course from **Zero-to-Mastery**
+🧠🤯 Dive into Deep Learning Book [D2l.ai](https://d2l.ai/chapter_introduction/index.html)
 
 ### Handy code snippents: <br>—
 📜 [My Gists](https://gist.github.com/AayushSameerShah): Here, I have stored many useful code snippets which become handy across the projects.
